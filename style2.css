@@ -2,4 +2,11 @@
     img{
         width: 400px;
     }
+
+    #sec3 {
+        border: 2px solid white;
+        width: 400;
+        height: 600px;
+               
+    }
 }
